@@ -1,4 +1,4 @@
-# Skillright
+## Skillright
 
 Skillright is an **organization-deployed registry for agent skills** (`SKILL.md` packages). Organizations run it centrally to index skills from **GitHub** and **Bitbucket** into a shared SQLite catalog. Developers then use that registry to search, tag, export, and install skills into their agent folders (typically `.cursor/skills`).
 
